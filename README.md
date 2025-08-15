@@ -6,7 +6,7 @@ I'm a high school student at Burlingame High School with a passion for robotics,
 
 ## 🚀 Featured Projects
 
-### [Word Wiz AI](https://github.com/bruce-peters/word-wiz-ai)A
+### [Word Wiz AI](https://github.com/bruce-peters/word-wiz-ai)
 An AI-powered web application designed to enhance vocabulary learning. It leverages natural language processing to create personalized quizzes and learning paths.
 
 ### [Notes Review App](https://github.com/bruce-peters/notes-reviewA-app)
