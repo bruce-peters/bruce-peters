@@ -4,7 +4,7 @@ I'm a high school student at Burlingame High School with a passion for robotics,
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Word Wiz AI](https://github.com/bruce-peters/word-wiz-ai)
 An AI-powered web application designed to enhance vocabulary learning. It leverages machine learning techniques and large language models to generate personalized reading practice and reading feedback.
@@ -23,7 +23,7 @@ This is the scouting app that I made from the ground up for my robotics team usi
 
 ---
 
-## 🛠️ Skills & Technologies
+## My Skills and Technologies
 
 - **Languages:** Python, JavaScript & TypeScript, PHP, Java, C++, C#, Scratch🤨
 - **Frameworks & Libraries:** React, Node.js, FastAPI, SqlAlchemy, OpenCV, WpiLib, Tensorflow, PyTorch, Tailwind
@@ -32,13 +32,7 @@ This is the scouting app that I made from the ground up for my robotics team usi
 
 ---
 
-## 📈 GitHub Stats
-
-![Bruce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruce-peters&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 📬 Get in Touch
+## My Socials!
 
 - [Portfolio](https://bruce-peters.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/bruce-peters-17a10931b)
