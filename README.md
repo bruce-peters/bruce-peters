@@ -3,6 +3,7 @@
 I'm a high school student at Burlingame High School with a passion for robotics, programming, and AI. As a member of the Iron Panthers FRC Team 5026, I actively contribute to various projects and work to build impactful software.
 
 [Check out my portfolio!!](https://bruce-peters.github.io/)
+
 ---
 
 ## Featured Projects
