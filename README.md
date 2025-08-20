@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bruce Peters
 
 I'm a high school student at Burlingame High School with a passion for robotics, programming, and AI. As a member of the Iron Panthers FRC Team 5026, I actively contribute to various projects and work to build impactful software.
-
+[Check out my portfolio!!](https://bruce-peters.github.io/)
 ---
 
 ## Featured Projects
@@ -29,10 +29,3 @@ This is the scouting app that I made from the ground up for my robotics team usi
 - **Frameworks & Libraries:** React, Node.js, FastAPI, SqlAlchemy, OpenCV, WpiLib, Tensorflow, PyTorch, Tailwind
 - **Tools:** Git, Docker, VS Code, Jupyter, Neovim
 - **Areas of Interest:** Robotics (FRC), AI/ML, Web Development
-
----
-
-## My Socials!
-
-- [Portfolio](https://bruce-peters.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/bruce-peters-17a10931b)
