@@ -9,16 +9,16 @@ I'm a high school student at Burlingame High School with a passion for robotics,
 ## Featured Projects
 
 ### [Word Wiz AI](https://github.com/bruce-peters/word-wiz-ai)
-An AI-powered web application designed to enhance vocabulary learning. It leverages machine learning techniques and large language models to generate personalized reading practice and reading feedback.
+An AI-powered web application designed to help children learn how to read. It leverages machine learning techniques and large language models to generate personalized reading practice and reading feedback.
 
 ### [Notes Review App](https://github.com/bruce-peters/notes-reviewA-app)
-A tool that transforms your notes into concise facts, allowing you to practice typing them repeatedly. It's a blend of Quizlet and Monkeytype, integrated with ChatGPT for intelligent content generation.
+A tool that transforms your notes into concise facts, allowing you to practice typing them repeatedly. It's a blend of Quizlet and Monkeytype, integrated with an LLM for intelligent content generation.
 
 ### [Phoneme Assistant](https://github.com/bruce-peters/phoneme-assistant)
-This is the older and downloadable form of Word Wiz AI, before it was actually made into a webapp. Here you can find all of the old files and research testing for Word Wiz
+This is the older and downloadable form of Word Wiz AI, before it was actually made into a web app. Here you can find all of the old files and research testing for Word Wiz
 
 ### [Iron Panthers Robot Simulation](https://github.com/Iron-Panthers/SIM-2025)
-This is the updated competition and simulation code for my robotics team, Iron Panthers Robotics (where I diAd a lot of work from my robotics GitHub account). We just recently won the First Robotics World Championships in Houston with a slightly different version of this code.
+This is the updated competition and simulation code for my robotics team, Iron Panthers Robotics (where I did a lot of work from my robotics GitHub account). We just recently won the First Robotics World Championships in Houston with a slightly different version of this code.
 
 ### [Iron Panthers Scouting App](https://github.com/Iron-Panthers/2025-scout)
 This is the scouting app that I made from the ground up for my robotics team using React. It allowed our team to get detailed data on other teams and make our strategy decisions based on that.
