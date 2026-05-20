@@ -12,6 +12,7 @@
 ![Congressional App Challenge](https://img.shields.io/badge/Congressional_App_Challenge-2nd_Place_CA--15-3B82F6?style=for-the-badge&labelColor=0d1117)
 ![LG Hacks 2.0](https://img.shields.io/badge/LG_Hacks_2.0-1st_Place-22C55E?style=for-the-badge&labelColor=0d1117)
 ![UHS Hackathon](https://img.shields.io/badge/UHS_Hackathon-2nd_Place-F97316?style=for-the-badge&labelColor=0d1117)
+![Panther Hacks](https://img.shields.io/badge/Panther_Hacks-1st_Place-eff542?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
