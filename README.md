@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=8B949E&center=true&width=520&lines=FRC+World+Champion+%7C+Iron+Panthers+Team+5026;Founder+%40+Word+Wiz+AI+%7C+Congressional+App+Challenge;AI+Robotics+Intern+%40+C12.ai;Robotics+%2B+ML+%2B+Ed-Tech" alt="Typing SVG" />
 
-[bruce-peters.github.io](https://bruce-peters.github.io) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/bruce-peters-17a10931b) &nbsp;|&nbsp; Burlingame, CA
+[brucepeters.dev](https://brucepeters.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/bruce-peters-17a10931b) &nbsp;|&nbsp; Burlingame, CA
 
 &nbsp;
 
