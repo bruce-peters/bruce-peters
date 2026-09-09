@@ -18,7 +18,7 @@
 
 ---
 
-Senior at Burlingame High School. I founded **Word Wiz AI**, an adaptive AI reading platform for children live at wordwizai.com, and I do computer vision research at the **H2X Lab** at **Boston University** under Prof. Eshed Ohn-Bar on detecting when young students disengage during reading instruction. I'm **Programming Manager** for Iron Panthers FRC Team 5026, 2025 FIRST Robotics World Champions. I wrote the superstructure state machine that ran on the robot in Houston. I'm also **ASB President**, running student government for a school of 1,600.
+Senior at Burlingame High School. I founded **Word Wiz AI**, an adaptive AI reading platform for children live at wordwizai.com, and I do computer vision research at the **H2X Lab** at **Boston University** under Prof. Eshed Ohn-Bar on detecting when young students disengage during reading instruction. I'm a **Programming Manager** for Iron Panthers FRC Team 5026, 2025 FIRST Robotics World Champions. I wrote the superstructure state machine that ran on the robot in Houston. I'm also **ASB President**, running student government for a school of 1,600.
 
 Applying to CS/AI programs for fall 2027.
 
