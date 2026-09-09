@@ -18,7 +18,7 @@
 
 ---
 
-Junior at Burlingame High School. I founded **Word Wiz AI**, an adaptive AI reading platform for children live at wordwizai.com, and currently intern at the **H2X lab** at **Boston University** doing research on computer vision for AI in education. I'm **Programming Manager** for Iron Panthers FRC Team 5026, 2025 FIRST Robotics World Champions. I wrote the superstructure state machine that ran on the robot in Houston.
+Senior at Burlingame High School. I founded **Word Wiz AI**, an adaptive AI reading platform for children live at wordwizai.com, and currently intern at the **H2X lab** at **Boston University** doing research on computer vision for AI in education. I'm **Programming Manager** for Iron Panthers FRC Team 5026, 2025 FIRST Robotics World Champions. I wrote the superstructure state machine that ran on the robot in Houston.
 
 Applying to CS/AI programs for fall 2026.
 
