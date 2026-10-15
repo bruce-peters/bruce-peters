@@ -26,7 +26,7 @@ Applying to CS/AI programs for fall 2027.
 
 ### Projects
 
-**[Word Wiz AI](https://github.com/bruce-peters/word-wiz-ai)** &nbsp;`FastAPI` `React` `Wav2Vec2` `AWS EC2/RDS`
+**[Word Wiz AI](https://github.com/wordwizai/word-wiz-ai)** &nbsp;`FastAPI` `React` `Wav2Vec2` `AWS EC2/RDS`
 &nbsp; Adaptive reading platform for early learners. Five integrated ML models handle speech-to-text, phoneme conversion, grapheme alignment, TTS, and LLM feedback generation. Detects specific mispronounced phonemes in real time, distinguishing sounds like "HOSE" from "HOUSE." Response latency reduced from 15s to 2s through streaming, model quantization, and selective API caching. 210 users, 11K+ visitors. **2nd Place, Congressional App Challenge CA-15.**
 
 **Off-Task Detection Research** &nbsp;`Python` `Swift` `PyTorch` `WhisperX` `YOLO`
@@ -64,10 +64,6 @@ Applying to CS/AI programs for fall 2027.
 ---
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruce-peters&theme=minimal&hide_border=true&bg_color=00000000&color=8b949e&line=e6edf3&point=e6edf3&area=true&area_color=21262d)](https://github.com/bruce-peters)
-
-&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bruce-peters&hide_border=true&background=00000000&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3)](https://git.io/streak-stats)
 
